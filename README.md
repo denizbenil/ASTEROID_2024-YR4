@@ -21,7 +21,6 @@ Timeframe: **October 1, 2032 – March 1, 2033**
 3. Plot the **Earth–YR4–Sun angle** over time.
 4. Visualize the **ground-track** of the asteroid over:
    - The **Earth’s surface** (±6 hours around Time of Closest Approach - TCA)
-   - The **Moon’s surface** (±6 hours around TCA)
 
 ---
 
